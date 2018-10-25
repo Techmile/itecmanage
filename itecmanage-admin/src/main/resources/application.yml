@@ -1,0 +1,11 @@
+#环境spring:
+spring:
+  profiles:
+    active: dev
+  server:
+    #tomcat
+    servlet:
+      context-path: /
+  #调试模式
+debug: true
+

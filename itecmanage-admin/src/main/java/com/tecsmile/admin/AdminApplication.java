@@ -1,4 +1,4 @@
-package com.tecsmile.itecmanageadmin;
+package com.tecsmile.admin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

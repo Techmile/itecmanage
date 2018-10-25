@@ -1,4 +1,4 @@
-package com.tecsmile.itecmanageadmin;
+package com.tecsmile.admin;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
