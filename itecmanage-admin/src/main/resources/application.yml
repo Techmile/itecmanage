@@ -1,11 +1,14 @@
 #环境spring:
 spring:
   profiles:
-    active: dev
+    active: prod
   server:
     #tomcat
     servlet:
       context-path: /
   #调试模式
-debug: true
+debug: false
+
+beetl:
+  templatesPath: templates
 
