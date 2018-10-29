@@ -4,7 +4,7 @@ spring:
   application:
     name: tecsmile.top.service
   datasource:
-    url: jdbc:mysql://47.98.161.153:3306/tecsmile?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false
+    url: jdbc:mysql://127.0.0.1:3306/tecsmile?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false
     username: root
     password: Admin@123
     driver-class-name: com.mysql.jdbc.Driver
